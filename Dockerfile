@@ -28,7 +28,7 @@
 # #CMD /bin/bash -c "source activate myenv && python3 -m python-docker"
 
 
-FROM python:2.7
+FROM python:latest
 COPY . /app
 WORKDIR /app
 RUN pip install -r requirements.txt
