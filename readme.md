@@ -1,1 +1,1 @@
-a bare minimum flask app running on python containerised using docker
+# starlette app running on docker
