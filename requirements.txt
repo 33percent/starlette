@@ -1,2 +1,5 @@
-flask
-flask_restful
+aiofiles
+jinja2
+starlette
+uvicorn
+graphene

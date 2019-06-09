@@ -5,6 +5,6 @@ services:
     image: python-docker
     build: .
     ports:
-      - 5000:5000
+      - 8000:8000
     volumes:
       - .:/app
